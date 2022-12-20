@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+    margin: 10% auto;
+    max-width: 60%;
+}
+p{
+    max-width: 50%;
+    color: lightgray;
+    
+}
+h4{
+    font-size: 28px;
+    color: white;
+    padding-left: 30px;
+}
+.container .item-item1{
+    background-color:hsl(31, 77%, 52%) ;
+    padding: 10px;
+    
+}
+.container .item-item2{
+    background-color: hsl(184, 100%, 22%) ;
+    padding: 10px;
+}
+.container .item-item3{
+    background-color: hsl(179, 100%, 13%) ;
+    padding: 10px;
+}
+.btn{
+    padding: 10px;
+    align-items: center;
+    
+}
+.btn button{
+    padding: 10px;
+    border-radius: 20px;
+    padding-inline: 30px;
+    align-items: center;
+}
+.container p{
+
+    padding-left: 30px;
+}
+.item .img{
+    padding: 100px;
+}
